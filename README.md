@@ -2,9 +2,10 @@
 
 ## Data Source: 
 https://s3.amazonaws.com/tripdata/index.html
+Stored as comma-separated values file into Resources folder 
 
 ## Tool: 
-Tableau
+Tableau<br>
 Python (jupyter notebook)
 
 ## Data Preparation:
