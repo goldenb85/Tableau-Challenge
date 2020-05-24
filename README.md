@@ -31,7 +31,7 @@ Both categories have peak usage of bikes during Summer, and the usage decreases 
 <img src='Resources/citi_bike--- number of trips for gender.png'/><br>
 ### 3. Average Trip duration and number of trips for each gender across time
 Male users have more trips than females (around 3-time), while females have the higher average trip duration than males. 
-
+<img src='Resources/citi_bike--- avg trip duration and number of trips for gender.PNG'/><br>
 ### 4. Number of Trips for Peak hours
 8:00AM and 18:00PM are the peak time for users. There are still a great number of trips between the two time, but way less than peak hours.
 
