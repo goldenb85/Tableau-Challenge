@@ -9,7 +9,8 @@ Tableau<br>
 Python (jupyter notebook)
 
 ## Data Preparation:
-No need to clean data, since there is no missing data.
+Data cleaning is not necessary. 
+Variables of interest do not contain missing values.
 
 ## Output:
 https://public.tableau.com/views/CitiBikeDataVisualizationJuntoDec2019/CitibikedataVisualizationforJerseyCityJunetoDecemberin2019?:display_count=y&publish=yes&:origin=viz_share_link
