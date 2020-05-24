@@ -40,3 +40,4 @@ Male users have more trips than females (around 3-time), while females have the 
 <img src='Resources/citi_bike--- peak hours for gender.PNG'/><br>
 ### 6. Map based on start time (filtered by gender and starttime)
 Grove St Path station has the highest number of trips for all users (no matter which gender) for each month. Hamilton Park is the second.
+<img src='Resources/citi_bike--- geomap on starttime.PNG'/><br>
